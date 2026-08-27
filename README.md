@@ -15,6 +15,8 @@ A simple Python quiz game with questions and score calculation.
 - Input and Output
 - If-Else Statements
 - String Methods
+## Example Output 
+
 WELCOME TO QUIZ GAME
 
 1. What is the capital of India? Delhi
